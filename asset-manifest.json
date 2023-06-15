@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/constellation/static/css/main.36d5382d.css",
-    "main.js": "/constellation/static/js/main.97a4cf2c.js",
+    "main.js": "/constellation/static/js/main.ab0319e7.js",
     "static/js/445.b022403c.chunk.js": "/constellation/static/js/445.b022403c.chunk.js",
     "static/media/curvyePaint.gif": "/constellation/static/media/curvyePaint.5b311601f3ba75462691.gif",
     "static/media/TANTIES.gif": "/constellation/static/media/TANTIES.caa3631283ffdb1f0227.gif",
     "index.html": "/constellation/index.html",
     "main.36d5382d.css.map": "/constellation/static/css/main.36d5382d.css.map",
-    "main.97a4cf2c.js.map": "/constellation/static/js/main.97a4cf2c.js.map",
+    "main.ab0319e7.js.map": "/constellation/static/js/main.ab0319e7.js.map",
     "445.b022403c.chunk.js.map": "/constellation/static/js/445.b022403c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.36d5382d.css",
-    "static/js/main.97a4cf2c.js"
+    "static/js/main.ab0319e7.js"
   ]
 }
